@@ -1,3 +1,6 @@
+# Main Backend Model with Accuracy Plot
+This consists of only the file main.py, which will generate the plots as given.
+
 # AeroSonic — Neural model + Streamlit app bundle
 
 This bundle contains:
